@@ -1,0 +1,5 @@
+; -*-Org-Novelist-*-
+#+TITLE: Chapter Six: Brewing
+[[file:../Notes/chapter-ChapterSixBrewing-notes.org][Notes]] are available for this [[file:../Indices/chapters.org][chapter]] from [[file:../main.org][Frost Borne Communion]].
+* Content
+# Scene Name Here

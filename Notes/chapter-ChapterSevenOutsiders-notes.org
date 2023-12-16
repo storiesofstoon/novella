@@ -1,0 +1,7 @@
+; -*-Org-Novelist-*-
+#+TITLE: Notes for Chapter Seven: Outsiders
+* Notes for [[file:../Chapters/chapter-ChapterSevenOutsiders.org][Chapter Seven: Outsiders]], a [[file:../Indices/chapters.org][chapter]] from [[file:../main.org][Frost Borne Communion]].
+Show how this chapter contributes to:
+** Character Development
+** Moving the Plot Forward
+** Enriching the Setting

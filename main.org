@@ -1,0 +1,10 @@
+; -*-Org-Novelist-*-
+* Frost Borne Communion
+<Write a brief summary of the story here>
+** [[file:Notes/notes.org][Notes]]
+** [[file:Notes/research.org][Research]]
+** [[file:Indices/characters.org][Characters]]
+** [[file:Indices/places.org][Places]]
+** [[file:Indices/props.org][Props]]
+** [[file:Indices/chapters.org][Chapters]]
+** [[file:org-novelist-config.org][Export Settings]]

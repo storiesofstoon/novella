@@ -1,0 +1,4 @@
+; -*-Org-Novelist-*-
+#+TITLE: Research
+* Research for [[file:../main.org][Frost Borne Communion]]
+<Write any research notes for the story here>

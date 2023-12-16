@@ -1,0 +1,6 @@
+; -*-Org-Novelist-*-
+#+TITLE: Chapter Two: Mystery
+[[file:../Notes/chapter-ChapterTwoMystery-notes.org][Notes]] are available for this [[file:../Indices/chapters.org][chapter]] from [[file:../main.org][Frost Borne Communion]].
+* Content
+# Mystery
+

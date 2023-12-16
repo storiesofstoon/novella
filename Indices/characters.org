@@ -1,0 +1,8 @@
+; -*-Org-Novelist-*-
+* Character Index for [[file:../main.org][Frost Borne Communion]]
+This is an index of the characters in the story. Do not edit manually. Use only Org mode or Org Novelist functions.
+** TODO \[[file:../Notes/character-Elsbeth.org][Elsbeth]]
+** TODO [[file:../Notes/character-MotherSeraphine.org][Mother Seraphine]]
+** TODO [[file:../Notes/character-SisterThora.org][sister Thora]]
+** TODO [[file:../Notes/character-SisterAsterid.org][Sister Asterid]]
+** TODO [[file:../Notes/character-SisterAgnes.org][Sister Agnes]]

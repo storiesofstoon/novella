@@ -1,0 +1,4 @@
+; -*-Org-Novelist-*-
+#+TITLE: Notes
+* Notes for [[file:../main.org][Frost Borne Communion]]
+<Write any general notes for the story here>

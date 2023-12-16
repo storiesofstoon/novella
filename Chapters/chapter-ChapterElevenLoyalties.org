@@ -1,0 +1,5 @@
+; -*-Org-Novelist-*-
+#+TITLE: Chapter Eleven: Loyalties
+[[file:../Notes/chapter-ChapterElevenLoyalties-notes.org][Notes]] are available for this [[file:../Indices/chapters.org][chapter]] from [[file:../main.org][Frost Borne Communion]].
+* Content
+# Scene Name Here

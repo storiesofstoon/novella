@@ -1,0 +1,16 @@
+; -*-Org-Novelist-*-
+* Chapter Index for [[file:../main.org][Frost Borne Communion]]
+This is an index of the chapters in the story. Do not edit manually. Use only Org mode or Org Novelist functions.
+** Main Matter
+*** TODO [[file:../Chapters/chapter-ChapterOneArrival.org][Chapter One: Arrival]]
+*** TODO [[file:../Chapters/chapter-ChapterTwoMystery.org][Chapter Two: Mystery]]
+*** TODO [[file:../Chapters/chapter-ChapterThreeStorm.org][Chapter Three: Storm]]
+*** TODO [[file:../Chapters/chapter-ChapterFourTension.org][Chapter Four: Tension]]
+*** TODO [[file:../Chapters/chapter-ChapterFiveAnother.org][Chapter Five: Another]]
+*** TODO [[file:../Chapters/chapter-ChapterSixBrewing.org][Chapter Six: Brewing]]
+*** TODO [[file:../Chapters/chapter-ChapterSevenOutsiders.org][Chapter Seven: Outsiders]]
+*** TODO [[file:../Chapters/chapter-ChapterEightSecrets.org][Chapter Eight: Secrets]]
+*** TODO [[file:../Chapters/chapter-ChapterNineDecisions.org][Chapter Nine: Decisions]]
+*** TODO [[file:../Chapters/chapter-ChapterTenCalm.org][Chapter Ten: Calm]]
+*** TODO [[file:../Chapters/chapter-ChapterElevenLoyalties.org][Chapter Eleven: Loyalties]]
+*** TODO [[file:../Chapters/chapter-ChapterTwelveTheForbiddenFeast.org][Chapter Twelve: The Forbidden Feast]]

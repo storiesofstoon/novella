@@ -1,0 +1,5 @@
+; -*-Org-Novelist-*-
+#+TITLE: Chapter Five: Another
+[[file:../Notes/chapter-ChapterFiveAnother-notes.org][Notes]] are available for this [[file:../Indices/chapters.org][chapter]] from [[file:../main.org][Frost Borne Communion]].
+* Content
+# Scene Name Here

@@ -1,0 +1,3 @@
+; -*-Org-Novelist-*-
+* Place Index for [[file:../main.org][Frost Borne Communion]]
+This is an index of the places in the story. Do not edit manually. Use only Org mode or Org Novelist functions.
