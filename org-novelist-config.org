@@ -1,3 +1,6 @@
+#+TITLE: Frost Borne Communion
+#+AUTHOR: A. W. N. L.
+#+EMAIL: atticyi@proton.me
 * Exports
 ** [[file:Exports/Basic-ODT-en-GB/ExportedStoryName.odt][Basic ODT en-GB]]
 Exports/org-odt-export-to-odt-en-gb.el

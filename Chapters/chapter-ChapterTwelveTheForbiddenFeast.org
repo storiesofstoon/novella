@@ -1,5 +1,0 @@
-; -*-Org-Novelist-*-
-#+TITLE: Chapter Twelve: The Forbidden Feast
-[[file:../Notes/chapter-ChapterTwelveTheForbiddenFeast-notes.org][Notes]] are available for this [[file:../Indices/chapters.org][chapter]] from [[file:../main.org][Frost Borne Communion]].
-* Content
-# Scene Name Here
