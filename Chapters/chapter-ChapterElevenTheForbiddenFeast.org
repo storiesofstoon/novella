@@ -1,0 +1,6 @@
+; -*-Org-Novelist-*-
+#+TITLE: Chapter Eleven: The Forbidden Feast
+[[file:../Notes/chapter-ChapterElevenTheForbiddenFeast-notes.org][Notes]] are available for this [[file:../Indices/chapters.org][chapter]] from [[file:../main.org][Frost Borne Communion]].
+* DONE Content
+CLOSED: [2023-12-25 Mon 06:22]
+# Scene Name Here

@@ -1,7 +1,0 @@
-; -*-Org-Novelist-*-
-#+TITLE: Notes for Chapter Eleven: Loyalties
-* Notes for [[file:../Chapters/chapter-ChapterElevenLoyalties.org][Chapter Eleven: Loyalties]], a [[file:../Indices/chapters.org][chapter]] from [[file:../main.org][Frost Borne Communion]].
-Show how this chapter contributes to:
-** Character Development
-** Moving the Plot Forward
-** Enriching the Setting
