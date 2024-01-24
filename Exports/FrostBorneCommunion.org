@@ -1,7 +1,7 @@
 #+TITLE: Frost Borne Communion
 #+AUTHOR: A. W. N. L.
 #+EMAIL: atticyi@proton.me
-#+DATE: [2024-01-06 Sat 09:48]
+#+DATE: [2023-12-28 Thu 07:27]
 * Chapter One: Arrival
 :PROPERTIES:
 :ORG-NOVELIST-MATTER-TYPE: MAIN MATTER
